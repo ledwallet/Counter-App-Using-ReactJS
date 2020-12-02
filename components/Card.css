@@ -1,0 +1,29 @@
+body{
+    background-image: linear-gradient(to right,#90F7EC, #32CCBC);
+}
+.Box{
+    height: auto;
+    width: 240px;
+    margin: auto ;
+    margin-top: 150px;
+    border: 1px solid black;
+    text-align: center;
+    box-shadow: 1px 2px 7px rgb(11, 90, 90);
+}
+.Heading{
+    text-align: center;
+    background-color: #bdb794;
+}
+
+.btn{
+    display: flex;
+    cursor: pointer;
+    text-align: center;
+    color: white;
+    height: 40px;
+    width: 80px;
+    background-color: maroon;
+}
+.btn:hover{
+    background-color: rgb(163, 20, 20);
+}
